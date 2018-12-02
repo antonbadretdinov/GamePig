@@ -1,0 +1,20 @@
+*{
+	color: white;
+	background-color: #FFDFDC;
+}
+p{
+	text-align: center;
+	font-family: 'Audiowide', cursive;
+	border-right-width: 12px;
+	color: gray;
+	font-size: 50px;
+	border: solid;
+	border-width:5px;
+}
+#scoreObj{
+	color: grey;
+	text-align: center;
+	font-family: 'Audiowide', cursive;
+	font-size: 50px;
+	padding-bottom: 10px;
+}
