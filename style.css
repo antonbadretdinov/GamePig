@@ -12,9 +12,23 @@ p{
 	border-width:5px;
 }
 #scoreObj{
+	margin-right: 100px;
 	color: grey;
-	text-align: center;
 	font-family: 'Audiowide', cursive;
 	font-size: 50px;
-	padding-bottom: 10px;
+	text-align: center;
+	margin-top: 650px;
+
+}
+#helloText{
+	color: grey;
+	font-family: 'Audiowide', cursive;
+	padding-top: 250px;
+}
+#timerObj{
+
+	margin-right: 300px;
+	font-size: 50px;
+	color: grey;
+	font-family: 'Audiowide', cursive;
 }
